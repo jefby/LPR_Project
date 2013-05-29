@@ -11,6 +11,6 @@ Method:
 	b. if you want to rebuild this project,you must install cmake software,but 
 	if you not,you could just cd to the build directory ,and just enter the 
 	command like this :
-	$ ./bin/LPR_EXE ../images/IMAGE_20130527_14523.jpg
+	$ ./bin/LPR_EXE ../images/IMG_20130527_14523.jpg
 I hope this can help you,but if you have some questions,please email me 
 jef199006@gmail.com!
