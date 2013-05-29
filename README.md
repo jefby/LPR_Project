@@ -2,3 +2,15 @@ LPR_Project
 ===========
 
 License Plate Recongtion Project , use OpenCV 2.0 version
+
+Declare:
+	This project is based on CMake + OpenCV 2.0 version in Linux.
+	
+Method:
+	a. Directory LPR_v0 or LPR_v1 contains the source and some example images. 
+	b. if you want to rebuild this project,you must install cmake software,but 
+	if you not,you could just cd to the build directory ,and just enter the 
+	command like this :
+	$ ./bin/LPR_EXE ../images/IMAGE_20130527_14523.jpg
+I hope this can help you,but if you have some questions,please email me 
+jef199006@gmail.com!
