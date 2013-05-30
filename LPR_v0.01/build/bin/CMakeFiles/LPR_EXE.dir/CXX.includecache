@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jefby/workplace/LPR/first/src/lpr_v0.cpp
+opencv2/imgproc/imgproc.hpp
+/home/jefby/workplace/LPR/first/src/opencv2/imgproc/imgproc.hpp
+opencv2/highgui/highgui.hpp
+/home/jefby/workplace/LPR/first/src/opencv2/highgui/highgui.hpp
+stdio.h
+-
+vector
+-
+cmath
+-
+
